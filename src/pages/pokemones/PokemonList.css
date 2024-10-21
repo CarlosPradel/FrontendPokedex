@@ -1,0 +1,14 @@
+/* Pokémon List Styles */
+.table td, .table th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.table-actions {
+    display: flex;
+    justify-content: center;
+}
+
+.table-actions button {
+    margin: 0 5px;
+}

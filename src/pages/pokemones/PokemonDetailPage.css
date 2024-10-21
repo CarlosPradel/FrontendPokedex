@@ -1,0 +1,35 @@
+.pokemon-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.pokemon-image {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+
+.pokemon-description {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+.pokemon-types .badge,
+.pokemon-habilidades .badge {
+    font-size: 1rem;
+    padding: 0.6rem 1.2rem;
+    margin-right: 0.5rem;
+    color: black;
+}
+
+.pokemon-stats table {
+    width: 100%;
+}
+
+.pokemon-evolutions {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 10px;
+}
